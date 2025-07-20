@@ -1,4 +1,4 @@
-✈️ Visionary Travelers – Your AI Travel Companion
+✈️ Visionary Travelers – Your Travel Companion
 Visionary Travelers is an innovative travel website that offers a seamless, intelligent, and visually rich experience for modern explorers. Designed to inspire journeys, discover destinations, and connect adventurers, the platform provides everything from travel tips to curated suggestions — all wrapped in a sleek and responsive design.
 
 Built for a hackathon, this project fuses clean frontend architecture with intuitive navigation, creating a travel portal that feels as adventurous as the journeys it promotes.
